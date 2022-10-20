@@ -1,0 +1,11 @@
+CHIAVI SSH
+
+ssh-keygen 
+dai sempre invio
+cat id_rsa.pub
+
+
+git confing --global user.email ""
+git confing --global user.name ""
+
+git config --list
