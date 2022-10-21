@@ -1,0 +1,15 @@
+
+Il seguente questionario ha lo scopo di indagare sulle abitudini e interessi delle persone riguardo il mondo del fitness\sportivo. Il tuo aiuto sarà utile a raccogliere informazioni per lo sviluppo di un'applicazione che possa aiutare nel seguire un atleta durante il suo percorso di allenamento. Per la compilazione del questionario sono necessari solo 5 minuti, inoltre le risposte sono in forma anonima.
+
+-----------------------------------------------
+SCELTA
+Il seguente questionario ha lo scopo di indagare sulle abitudini e interessi delle persone riguardo il mondo del fitness\sportivo. Il tuo aiuto sarà utile a raccogliere informazioni per lo sviluppo di un'applicazione che possa porti l'utente a seguire un allenamento personalizzato. Per la compilazione del questionario sono necessari solo 5 minuti, inoltre le risposte sono in forma anonima.
+------------------------------------------
+
+1) Genere di appartenenza 
+	-Uomo
+	-Donna
+	-Preferisco non dirlo
+
+2) Età 
+3)
