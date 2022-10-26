@@ -1,0 +1,9 @@
+Home: in comune
+CERCA: in comune
+
+MONITORAGGIO: - Personal Trainer: statistiche assistiti
+	      - Utente : statistiche di allenamento personali
+
+PROFILO:	- Persal Trainer : creare nuovi allenamenti => pubblici, privati, per uno specifico utente
+		- Utente : storico schede di allenamento, modifica dati personali
+
