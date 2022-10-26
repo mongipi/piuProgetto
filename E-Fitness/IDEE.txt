@@ -7,3 +7,25 @@ MONITORAGGIO: - Personal Trainer: statistiche assistiti
 PROFILO:	- Persal Trainer : creare nuovi allenamenti => pubblici, privati, per uno specifico utente
 		- Utente : storico schede di allenamento, modifica dati personali
 
+
+HOME: 	Uguale per utente, personal trainer, guest
+	- Calendario: giorni settimana e progresso scheda di allenamento
+	- Carosello delle schede Più popolari
+	- Carosello delle schede per obiettivo (bruciagrassi, sviluppa muscoli, sfida killer) => ipertrofia, ...
+	- Carosello delle schede per difficoltà (principiante, intermedio, avanzato, esperto)
+	- Carosello delle schede per il focus (torace, addominali, parte superiore, parte inferiore,..)
+
+PROFILO
+	o Lato Guest => mostra pulsante registrati / mostra form registrati
+	
+	o Lato Utente: 
+		- Banner con le informazioni personali: (foto, nome, cognome, altezza.... + tasto modifica dati) / (foto, nome, cognome, tasto modifica dati)
+		- Carosello IL MIO PROGRAMMA => contiene più schede in quanto l'utente può decidere di seguire più piani di allenamento differente (outdoor, indoor, posturale,..)
+		- Carosello I MIEI PREFERITI => contiene le schede a cui l'utente ha messo like (con il pulsante cuore)
+		- Carosello STORICO => contiene le schede svolte in passato
+	
+	o Lato Personal Trainer:
+		- Banner con le informazioni personali: (foto, nome, cognome, altezza.... + tasto modifica dati) / (foto, nome, cognome, tasto modifica dati)
+		- Carosello SCHEDE CREATE (accanto alla scritta SCHEDE CREATE mettere CREA NUOVA SCHEDA)
+
+	
