@@ -1,8 +1,11 @@
+
+
 Home: in comune
 CERCA: in comune
 
 MONITORAGGIO: - Personal Trainer: statistiche assistiti
 	      - Utente : statistiche di allenamento personali
+
 
 PROFILO:	- Persal Trainer : creare nuovi allenamenti => pubblici, privati, per uno specifico utente
 		- Utente : storico schede di allenamento, modifica dati personali
@@ -15,6 +18,7 @@ HOME: 	Uguale per utente, personal trainer, guest
 	- Carosello delle schede per difficoltà (principiante, intermedio, avanzato, esperto)
 	- Carosello delle schede per il focus (torace, addominali, parte superiore, parte inferiore,..)
 
+
 PROFILO
 	o Lato Guest => mostra pulsante registrati / mostra form registrati
 	
@@ -26,6 +30,45 @@ PROFILO
 	
 	o Lato Personal Trainer:
 		- Banner con le informazioni personali: (foto, nome, cognome, altezza.... + tasto modifica dati) / (foto, nome, cognome, tasto modifica dati)
-		- Carosello SCHEDE CREATE (accanto alla scritta SCHEDE CREATE mettere CREA NUOVA SCHEDA)
+		- Lista card, due per riga, delle schede di allenamento creati (accanto alla scritta SCHEDE CREATE mettere CREA NUOVA SCHEDA)
 
+
+STATISTICHE 
+	o Lato Guest => mostra pulsante registrati / mostra form registrati
+
+	o Lato Utente:
+		- Calendario con la possibilità di accedere agli allenamenti svolti in un determinato giorno con relative statistice (durata, calorie bruciate, data e ora)
+			
+		- Statistiche generali: => filtro per ricerca (giorno, settimana, mese, anno)
+			=> due per riga (calorie, tempo di allenamento, 
+
+	o Lato Personal Trainer
+		- Rubrica dei seguiti
+
+
+CERCA 
+	o Quando clicchi su cerca
+		- campo inserimenti 
+		- Focus corpo => bottoni 2 per riga  (tronco, tutto il corpo, parte superiore, parte inferiore, ..)
+		- Argomenti più richiesti => bottoni 2 per riga ( quarantena a casa, bruciagrassi, sviluppo muscolari, .... )
+
+	o quando avvii la ricerca
+		- Lista di schede => con campi foto, nome, durata, difficoltà
+		- lista personal trainer specializzati nel campo ricercato
+
+
+NOTIFICA
+
+	o Guest => mostra pulsante registrati / mostra form registrati
 	
+	o Utente: Lista notifiche (notifica di allenamento ES: è tempo di allenarti, se segui un personal trainer ti avvisa quando aggiunge una nuova scheda,..)
+
+	o Utente: Lista notifiche (utente Emanuel si sta allenando allenamento, se segui un personal trainer ti avvisa quando aggiunge una nuova scheda,..)
+
+
+CHAT
+	o Guest =>  mostra pulsante registrati / mostra form registrati
+
+	o Utente / Personal Trainer: lista chat => ogni chat avrà foto, nome, chat e allegatati (foto, video, documenti)
+
+
