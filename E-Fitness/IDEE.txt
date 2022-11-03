@@ -46,7 +46,8 @@ STATISTICHE
 		- Rubrica dei seguiti
 
 
-CERCA 
+CERCA      
+                Lato utente
 	o Quando clicchi su cerca
 		- campo inserimenti 
 		- Focus corpo => bottoni 2 per riga  (tronco, tutto il corpo, parte superiore, parte inferiore, ..)
@@ -56,6 +57,8 @@ CERCA
 		- Lista di schede => con campi foto, nome, durata, difficoltà
 		- lista personal trainer specializzati nel campo ricercato
 
+                Lato Professionista
+                - Lista utenti e schede create => con campi foto, nome, durata, difficoltà
 
 NOTIFICA
 
