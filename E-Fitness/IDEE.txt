@@ -66,7 +66,8 @@ NOTIFICA
 	
 	o Utente: Lista notifiche (notifica di allenamento ES: è tempo di allenarti, se segui un personal trainer ti avvisa quando aggiunge una nuova scheda,..)
 
-	o Utente: Lista notifiche (utente Emanuel si sta allenando allenamento, se segui un personal trainer ti avvisa quando aggiunge una nuova scheda,..)
+
+	o Personal Trainer: Lista notifiche (utente Emanuel si sta allenando allenamento, se segui un personal trainer ti avvisa quando aggiunge una nuova scheda,..)
 
 
 CHAT
