@@ -33,7 +33,7 @@ PROFILO
 		- Lista card, due per riga, delle schede di allenamento creati (accanto alla scritta SCHEDE CREATE mettere CREA NUOVA SCHEDA)
 
 
-STATISTICHE 
+MONITORAGGIO 
 	o Lato Guest => mostra pulsante registrati / mostra form registrati
 
 	o Lato Utente:
